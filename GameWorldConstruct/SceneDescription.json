@@ -1,0 +1,810 @@
+{
+	"ModelProperties": [
+		{
+			"ModelName": "Floor_01",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174.0, 2.15, -182.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_02",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-116.0, 2.15, -182.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_03",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-58.0, 2.15, -182.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_04",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [0.0, 2.15, -182.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_05",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174.0, 2.15, -123.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_06",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174.0, 2.15, -65.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_07",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174.0, 2.15, -7.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_08",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [0.0, 2.15, -123.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_09",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [0.0, 2.15, -65.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_010",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [0.0, 2.15, -7.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_011",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174.0, 2.15, 51.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_012",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [0.0, 2.15, 51.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_013",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [58.0, 2.15, 51.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_014",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [116.0, 2.15, 51.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_015",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [174.0, 2.15, 51.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_016",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [232.0, 2.15, 51.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_017",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [232.0, 2.15, 109.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_018",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [232.0, 2.15, 167.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_019",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [232.0, 2.15, 225.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_020",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [174.0, 2.15, 225.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_021",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [116.0, 2.15, 225.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_022",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [58, 2.15, 225],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_023",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [0, 2.15, 225],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_024",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-58, 2.15, 225],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_025",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-116, 2.15, 225],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_026",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174, 2.15, 225],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_027",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174, 2.15, 167],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Floor_028",
+			"FilePath": "SM_Env_Dwarf_Floor_06.ply",
+			"Position": [-174, 2.15, 109],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 0.117,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Dungeons_2_Texture_01_A.bmp",
+					"TextureName": "Floor"
+				}
+			],
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Inner_Circle_01",
+			"FilePath": "New_Circle_n_rgba_uv.ply",
+			"Position": [-87, -2.85, -72],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 2.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Outer_Circle_01",
+			"FilePath": "New_Circle_n_rgba_uv.ply",
+			"Position": [-87, -6.85, -72],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 4.2,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.85, 0.2]
+		},
+		{
+			"ModelName": "Inner_Circle_02",
+			"FilePath": "New_Circle_n_rgba_uv.ply",
+			"Position": [-33, -2.85, 137],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 2.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.2, 0.2, 1.0]
+		},
+		{
+			"ModelName": "Outer_Circle_02",
+			"FilePath": "New_Circle_n_rgba_uv.ply",
+			"Position": [-33, -6.85, 137],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 4.2,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.1, 0.85, 0.2]
+		},
+		{
+			"ModelName": "Sphere_FuturePos_01",
+			"FilePath": "Sphere_1_unit_Radius_uv.ply",
+			"Position": [0.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": true,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Sphere_ProjectedPathPos_01",
+			"FilePath": "Sphere_1_unit_Radius_uv.ply",
+			"Position": [30.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": true,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.0, 1.0, 0.0]
+		},
+		{
+			"ModelName": "Sphere_FuturePos_02",
+			"FilePath": "Sphere_1_unit_Radius_uv.ply",
+			"Position": [0.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": true,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Sphere_ProjectedPathPos_02",
+			"FilePath": "Sphere_1_unit_Radius_uv.ply",
+			"Position": [30.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 5.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": true,
+			"bUseManualColors": true,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [0.0, 1.0, 0.0]
+		},
+		{
+			"ModelName": "Beholder01",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [20.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 3.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Beholder02",
+			"FilePath": "BeholderSketchfab_xyz_n_rgba_uv.ply",
+			"Position": [50.0, 10.0, 20.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 3.0,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": false,
+			"Color": [1.0, 0.0, 0.0]
+		},
+		{
+			"ModelName": "Ground",
+			"FilePath": "Big_Flat_Mesh_256x256_00_132K_xyz_n_rgba_uv.ply",
+			"Position": [0.0, 0.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 7.5,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "Blank_UV_Text_Texture.bmp",
+					"TextureName": "Checkered_Tiles"
+				}
+			],
+			"Color": [0.7, 0.7, 0.7]
+		},
+		{
+			"ModelName": "Spiderman",
+			"FilePath": "legospiderman_full_body_xyz_n_rgba_uv.ply",
+			"Position": [0.0, 10.0, 0.0],
+			"Rotation": [0.0, 0.0, 0.0],
+			"Scale": 3,
+			"bMeshLightsOn": true,
+			"bWireframeModeOn": false,
+			"bUseManualColors": false,
+			"bIsSkyBox":false,
+			"bUseTextures": true,
+			"TextureDetails": [
+				{
+					"bTextureBlend": false,
+					"bUseDiscardMask": false,
+					"DiscardMaskTexturePath": " ",
+					"TexturePath": "SpidermanUV_square.bmp",
+					"TextureName": "Checkered_Tiles"
+				}
+			]
+		}
+	],
+	"LightProperties": [
+		{
+			"LightId": 0,
+			"bLightOn": true, 
+			"LightType": 2.0,
+			"LinearAttenuation": 0.1,
+			"QuadraticAttenuation": 0.0,
+			"InnerAngle": 0.50,
+			"OuterAngle": 1.0,
+			"LightPosition": [0.0, 30.0, 0.0],
+			"LightDirection": [0.0, -1.0, 0.0],
+			"LightColor": [1.0, 1.0, 1.0]
+		}
+	],
+	"CameraProperties": {
+		"CameraPosition": [0.0, 50.0, 200.0]
+	}
+}
